@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+cloudpickle
+matplotlib
+seaborn
+requests
